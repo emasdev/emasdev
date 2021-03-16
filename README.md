@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Emanuel, a Full-Stack Software Developer with 9 years of coding experience :nerd_face:
+I'm Emanuel, a Full-Stack Software Developer with 4 years of coding experience :nerd_face:
 
 Currently interested in creating apps for wellness and self improvement.
 
